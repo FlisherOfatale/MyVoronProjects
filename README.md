@@ -20,9 +20,12 @@ The goal of this page is to keep track of what is in my printer, primary for mys
 * Cable Cover: https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/chri.kai.in/20x20mm_Profile_Covers
 
 ## Personal mods:
-### [Modified Z Belt Cover](/STL/z_belt_cover/)
+### Modified Z Belt Cover -> [Here](/STL/z_belt_cover/)
 * Allow passing a USB or other thick wire
 * Trimmed the spot that goes under the Z Rail for easier removal.
 *Modded with ThinkCAD, base on the Voron 2.4 original model, no step file available.*
+
+### RepRack Mount for 2020 Extrusion -> [Here](/STL/2020_reprack_mount/)
+* Designed for 3mm top pannel, easily moddable for more dimension.
 
 WIP, will update documentation as inspiration come.
