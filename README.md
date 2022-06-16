@@ -20,7 +20,7 @@ The goal of this page is to keep track of what is in my printer, primary for mys
 * Cable Cover: https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/chri.kai.in/20x20mm_Profile_Covers
 
 ## Personal mods:
-## [Modified Z Belt Cover](/STL/z_belt_cover/)
+### [Modified Z Belt Cover](/STL/z_belt_cover/)
 * Allow passing a USB or other thick wire
 * Trimmed the spot that goes under the Z Rail for easier removal.
 *Modded with ThinkCAD, base on the Voron 2.4 original model, no step file available.*
