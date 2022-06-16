@@ -12,11 +12,17 @@ The goal of this page is to keep track of what is in my printer, primary for mys
 * Printed part for electronic enclosure took from the Trident version
 * Z drive 80t pulley is 3d printed, will definetly get metallic one, they were a pain to tune properly.
 
-## Mod:
+## Mods from Others:
 * Klicky + Auto-Z-Calibration
 * Sexbolt Z End Stop
 * Stealthburner on CW1, 
 * Cover : need to find the link again, it's the modded version where the shaft doesn't freefallwith custom PCB
 * Cable Cover: https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/chri.kai.in/20x20mm_Profile_Covers
+
+## Personal mods:
+### [Modified Z Belt Cover](/STL/z_belt_cover/)
+* Allow passing a USB or other thick wire
+* Trimmed the spot that goes under the Z Rail for easier removal.
+*Modded with ThinkCAD, base on the Voron 2.4 original model, no step file available.*
 
 WIP, will update documentation as inspiration come.
