@@ -16,7 +16,7 @@ The goal of this page is to keep track of what is in my printer, primary for mys
 * Klicky + Auto-Z-Calibration
 * Sexbolt Z End Stop
 * Stealthburner on CW1, 
-* Cover : need to find the link again, it's the modded version where the shaft doesn't freefallwith custom PCB
+* PCB Cover : Stealthburner_CW1_PCB_Cover/(https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/wile-e1/Stealthburner_CW1_PCB_Cover)
 * Cable Cover: https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/chri.kai.in/20x20mm_Profile_Covers
 
 ## Personal mods:
