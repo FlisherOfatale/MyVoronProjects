@@ -29,3 +29,10 @@ The goal of this page is to keep track of what is in my printer, primary for mys
 * Designed for 3mm top pannel, easily moddable for more dimension.
 
 WIP, will update documentation as inspiration come.
+
+WIP2: 2022-08-15
+Currently converting toolhead and gantry:
+* [Smol-Mantis Toolhead](https://github.com/sporkus/smol_mantis)
+* [Sherpa-Mini Extruder](https://github.com/Annex-Engineering/Sherpa_Mini-Extruder)
+* [Rear Umbelical Mount](https://www.teamfdm.com/files/file/536-rear-umbilical/)
+* [Z-Endstop Relocation](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Minsekt/Rear_Umbilical/Y_Endstop_Relocation)
