@@ -36,3 +36,4 @@ Currently converting toolhead and gantry:
 * [Sherpa-Mini Extruder](https://github.com/Annex-Engineering/Sherpa_Mini-Extruder)
 * [Rear Umbelical Mount](https://www.teamfdm.com/files/file/536-rear-umbilical/)
 * [Z-Endstop Relocation](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Minsekt/Rear_Umbilical/Y_Endstop_Relocation)
+* [Hartk PCB Mount for Mantis](https://github.com/mandryd/MantisUsermods/tree/main/Usermods/DustinSpeed/Hartk_PCB_Mount)
