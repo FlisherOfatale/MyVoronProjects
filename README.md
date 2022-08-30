@@ -37,3 +37,6 @@ Currently converting toolhead and gantry:
 * [Rear Umbelical Mount](https://www.teamfdm.com/files/file/536-rear-umbilical/)
 * [Z-Endstop Relocation](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Minsekt/Rear_Umbilical/Y_Endstop_Relocation)
 * [Hartk PCB Mount for Mantis](https://github.com/mandryd/MantisUsermods/tree/main/Usermods/DustinSpeed/Hartk_PCB_Mount)
+* https://github.com/v6cl/My-Voron2.4-Customs/blob/main/Panel_Locker/Thin%20Locker
+* https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/richardjm/back-plate
+* https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/AlexanderT-Moss/270-Clamping-Hinges
