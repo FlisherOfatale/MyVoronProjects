@@ -38,6 +38,7 @@ WIP:
   * [a]Tap_Center_r3.stl
 * V2.4r2 Gantry (A/B Mount, XY Joint)
 * [Ramas Front Idlers](https://github.com/Ramalama2/Voron-2-Mods/tree/main/Front_Idlers)
+* To be tested: https://github.com/VoronDesign/VoronUsers/blob/master/printer_mods/Fiction/Exhaust_cover/STLs/exhaust_cover.stl
 
 ## WIP To be phased out
 * Klicky + Auto-Z-Calibration
