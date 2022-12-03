@@ -8,16 +8,16 @@ The goal of this page is to keep track of what is in my printer, primary for mys
 **Key Dates: Build:** December 27th, Serial on Jan 1st
 
 ## Characteristics
-* 2.4 Build, self-sourced
+* 2.4 OriginalBuild, self-sourced
 * Printed part for electronic enclosure took from the Trident version
 * Z drive 80t pulley is 3d printed, will definetly get metallic one, they were a pain to tune properly.
+* Stealthburner and CW2
 
 ## Mods from Others:
-* Klicky + Auto-Z-Calibration
-* Sexbolt Z End Stop
-* Stealthburner on CW1, 
-* PCB Cover : Stealthburner_CW1_PCB_Cover/(https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/wile-e1/Stealthburner_CW1_PCB_Cover)
-* Cable Cover: https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/chri.kai.in/20x20mm_Profile_Covers
+* Door Hinges: [270 Clamping Hinges](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/AlexanderT-Moss/270-Clamping-Hinges)
+* Umbellical mount for toolhead by Hartk, received in private, need adjustment to be published
+* [Rear Umbelical Mount](https://www.teamfdm.com/files/file/536-rear-umbilical/)
+* [Z-Endstop Relocation](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Minsekt/Rear_Umbilical/Y_Endstop_Relocation)
 
 ## Personal mods:
 ### Modified Z Belt Cover -> [Here](/STL/z_belt_cover/)
@@ -28,15 +28,30 @@ The goal of this page is to keep track of what is in my printer, primary for mys
 ### RepRack Mount for 2020 Extrusion -> [Here](/STL/2020_reprack_mount/)
 * Designed for 3mm top pannel, easily moddable for more dimension.
 
-WIP, will update documentation as inspiration come.
+WIP: 
+* [VoronTap](https://github.com/VoronDesign/Voron-Tap) (Printed 2022-12-02)
+  * Tap_Front_r1.stl
+  * Tap_Magnet_Left_r1.stl
+  * Tap_Magnet_Right_r1.stl 
+  * Tap_Upper_PCB_r1.stl
+  * Tap_Upper_Wired_r1.stl 
+  * [a]Tap_Center_r3.stl
+* V2.4r2 Gantry (A/B Mount, XY Joint)
+* [Ramas Front Idlers](https://github.com/Ramalama2/Voron-2-Mods/tree/main/Front_Idlers)
 
-WIP2: 2022-08-15
-Currently converting toolhead and gantry:
+## WIP To be phased out
+* Klicky + Auto-Z-Calibration
+* Sexbolt Z End Stop
+
+
+
+In the printer but looking to replace
+* https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/richardjm/back-plate ->
+
+
+Legacy, not in printer anymore:
 * [Smol-Mantis Toolhead](https://github.com/sporkus/smol_mantis)
 * [Sherpa-Mini Extruder](https://github.com/Annex-Engineering/Sherpa_Mini-Extruder)
-* [Rear Umbelical Mount](https://www.teamfdm.com/files/file/536-rear-umbilical/)
-* [Z-Endstop Relocation](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Minsekt/Rear_Umbilical/Y_Endstop_Relocation)
 * [Hartk PCB Mount for Mantis](https://github.com/mandryd/MantisUsermods/tree/main/Usermods/DustinSpeed/Hartk_PCB_Mount)
-* https://github.com/Annex-Engineering/Other_Printer_Mods/tree/master/All_Printers/Annex_Panel_2020_Clips_and_Hinges
-* https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/richardjm/back-plate
-* https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/AlexanderT-Moss/270-Clamping-Hinges
+* PCB Cover : Stealthburner_CW1_PCB_Cover/(https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/wile-e1/Stealthburner_CW1_PCB_Cover)
+* Cable Cover: https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/chri.kai.in/20x20mm_Profile_Covers
