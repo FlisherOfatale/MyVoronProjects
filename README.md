@@ -34,7 +34,6 @@ WIP:
   * Tap_Magnet_Left_r1.stl
   * Tap_Magnet_Right_r1.stl 
   * Tap_Upper_PCB_r1.stl
-  * Tap_Upper_Wired_r1.stl 
   * [a]Tap_Center_r3.stl
 * V2.4r2 Gantry (A/B Mount, XY Joint)
 * [Ramas Front Idlers](https://github.com/Ramalama2/Voron-2-Mods/tree/main/Front_Idlers)
