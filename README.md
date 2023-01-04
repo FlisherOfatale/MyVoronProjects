@@ -46,7 +46,8 @@ WIP:
 
 ## Stuff to read:
 * https://github.com/kyleisah/Klipper-Adaptive-Meshing-Purging
-* 
+* https://github.com/Frix-x/klipper-voron-V2/blob/main/doc/features/adaptive_bed_mesh.md
+* https://github.com/VoronDesign/VoronUsers/tree/master/orphaned_mods/printer_mods/edwardyeeks/Decontaminator_Purge_Bucket_&_Nozzle_Scrubber
 
 In the printer but looking to replace
 * https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/richardjm/back-plate ->
