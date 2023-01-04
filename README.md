@@ -44,11 +44,13 @@ WIP:
 * Klicky + Auto-Z-Calibration
 * Sexbolt Z End Stop
 
-
+## Stuff to read:
+* https://github.com/kyleisah/Klipper-Adaptive-Meshing-Purging
+* 
 
 In the printer but looking to replace
 * https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/richardjm/back-plate ->
-
+* https://github.com/Frix-x/klipper-voron-V2/blob/main/doc/features/adaptive_bed_mesh.md
 
 Legacy, not in printer anymore:
 * [Smol-Mantis Toolhead](https://github.com/sporkus/smol_mantis)
