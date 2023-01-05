@@ -18,7 +18,7 @@ The goal of this page is to keep track of what is in my printer, primary for mys
 * Umbellical mount for toolhead by Hartk, received in private, need adjustment to be published
 * [Rear Umbelical Mount](https://www.teamfdm.com/files/file/536-rear-umbilical/)
 * [Z-Endstop Relocation](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Minsekt/Rear_Umbilical/Y_Endstop_Relocation)
-
+* [Dual Nevermore](https://github.com/nevermore3d/Nevermore_Micro/blob/master/V5_Duo/Mods/Rear-Backmount-Plenum_by-mvieleers/mvieleers_nevermore_plenum_backmount.stl)
 ## Personal mods:
 ### Modified Z Belt Cover -> [Here](/STL/z_belt_cover/)
 * Allow passing a USB or other thick wire
@@ -40,6 +40,7 @@ WIP:
 * To be tested: 
   * https://github.com/VoronDesign/VoronUsers/blob/master/printer_mods/Fiction/Exhaust_cover/STLs/exhaust_cover.stl
   * https://mods.vorondesign.com/detail/tiIhFDTh9tHJY0JNJK9A
+* https://github.com/VoronDesign/VoronUsers/blob/master/printer_mods/top_gun_de/mount_for_umbilical/
 ## WIP To be phased out
 * Klicky + Auto-Z-Calibration
 * Sexbolt Z End Stop
