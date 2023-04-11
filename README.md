@@ -44,6 +44,11 @@ Auto Z Calibration
   * https://mods.vorondesign.com/detail/tiIhFDTh9tHJY0JNJK9A
 * https://github.com/VoronDesign/VoronUsers/blob/master/printer_mods/top_gun_de/mount_for_umbilical/
 
+## TradRack related work:
+* [Clock ECAS and Filament Sensor](https://github.com/EtteGit/EnragedRabbitProject/tree/main/usermods/CW2_with_ECAS_and_optional_sensor)
+* [Stealthburner Toolhead PCB](https://github.com/hartk1213/MISC/tree/main/PCBs/Stealthburner_Toolhead_PCB) - Revision 4
+* TradRack stuff (private)
+
 ## Stuff to read:
 * https://github.com/kyleisah/Klipper-Adaptive-Meshing-Purging
 * https://github.com/Frix-x/klipper-voron-V2/blob/main/doc/features/adaptive_bed_mesh.md
@@ -51,7 +56,6 @@ Auto Z Calibration
 
 In the printer but looking to replace
 * https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/richardjm/back-plate ->
-* https://github.com/Frix-x/klipper-voron-V2/blob/main/doc/features/adaptive_bed_mesh.md
 
 Legacy, not in printer anymore:
 * [Smol-Mantis Toolhead](https://github.com/sporkus/smol_mantis)
