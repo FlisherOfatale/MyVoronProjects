@@ -53,6 +53,11 @@ In the printer but looking to replace
 * https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/richardjm/back-plate ->
 * https://github.com/Frix-x/klipper-voron-V2/blob/main/doc/features/adaptive_bed_mesh.md
 
+## Stuff related to TradRack installation
+* https://github.com/pure100kim/StealthBurner_Toolhead-Sensor_switch -> new toolhead sensor, hoping it increase reliability over the ball one.
+* https://github.com/sorted01/Filametrix -> Cutter, not sure if it's compatible with the other switch mod.
+* 
+
 Legacy, not in printer anymore:
 * [Smol-Mantis Toolhead](https://github.com/sporkus/smol_mantis)
 * [Sherpa-Mini Extruder](https://github.com/Annex-Engineering/Sherpa_Mini-Extruder)
