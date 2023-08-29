@@ -39,10 +39,14 @@ Auto Z Calibration
 * Designed for 3mm top pannel, easily moddable for more dimension.
 
 
-* To be tested: 
-  * https://github.com/VoronDesign/VoronUsers/blob/master/printer_mods/Fiction/Exhaust_cover/STLs/exhaust_cover.stl
-  * https://mods.vorondesign.com/detail/tiIhFDTh9tHJY0JNJK9A
+##To be tested:
+* Umbelical mount :
+ * https://www.printables.com/model/405358-a-drive-mount-for-pug
+ * https://www.printables.com/model/378567-pug-parametric-umbilical-gland-for-cw2
+* https://github.com/VoronDesign/VoronUsers/blob/master/printer_mods/Fiction/Exhaust_cover/STLs/exhaust_cover.stl
+* https://mods.vorondesign.com/detail/tiIhFDTh9tHJY0JNJK9A
 * https://github.com/VoronDesign/VoronUsers/blob/master/printer_mods/top_gun_de/mount_for_umbilical/
+
 
 ## Stuff to read:
 * https://github.com/kyleisah/Klipper-Adaptive-Meshing-Purging
