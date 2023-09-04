@@ -45,15 +45,19 @@ Auto Z Calibration
 * Designed for 3mm top pannel, easily moddable for more dimension.
 
 
-* To be tested: 
-  * https://github.com/VoronDesign/VoronUsers/blob/master/printer_mods/Fiction/Exhaust_cover/STLs/exhaust_cover.stl
-  * https://mods.vorondesign.com/detail/tiIhFDTh9tHJY0JNJK9A
+##To be tested:
+* Umbelical mount :
+ * https://www.printables.com/model/405358-a-drive-mount-for-pug
+ * https://www.printables.com/model/378567-pug-parametric-umbilical-gland-for-cw2
+* https://github.com/VoronDesign/VoronUsers/blob/master/printer_mods/Fiction/Exhaust_cover/STLs/exhaust_cover.stl
+* https://mods.vorondesign.com/detail/tiIhFDTh9tHJY0JNJK9A
 * https://github.com/VoronDesign/VoronUsers/blob/master/printer_mods/top_gun_de/mount_for_umbilical/
 
 ## TradRack related work:
 * [Clock ECAS and Filament Sensor](https://github.com/EtteGit/EnragedRabbitProject/tree/main/usermods/CW2_with_ECAS_and_optional_sensor)
 * [Stealthburner Toolhead PCB](https://github.com/hartk1213/MISC/tree/main/PCBs/Stealthburner_Toolhead_PCB) - Revision 4
 * TradRack stuff (private)
+
 
 ## Stuff to read:
 * https://github.com/kyleisah/Klipper-Adaptive-Meshing-Purging
@@ -62,6 +66,11 @@ Auto Z Calibration
 
 In the printer but looking to replace
 * https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/richardjm/back-plate ->
+
+## Stuff related to TradRack installation
+* https://github.com/pure100kim/StealthBurner_Toolhead-Sensor_switch -> new toolhead sensor, hoping it increase reliability over the ball one.
+* https://github.com/sorted01/Filametrix -> Cutter, not sure if it's compatible with the other switch mod.
+* 
 
 Legacy, not in printer anymore:
 * [Smol-Mantis Toolhead](https://github.com/sporkus/smol_mantis)
