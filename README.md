@@ -15,7 +15,13 @@ The goal of this page is to keep track of what is in my printer, primary for mys
 * V2.4r2 Gantry Joint and A/B Mount
 
 ## Mods from Others:
-* Door Hinges: [270 Clamping Hinges](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/AlexanderT-Moss/270-Clamping-Hinges)
+
+| Mod | Function | Author | Files |
+| --- | --- |--- |--- |
+| [270 Clamping Hinges](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/AlexanderT-Moss/270-Clamping-Hinges) | Door Hinges | AlexanderT-Moss | (/STL-Others/270-Clamping-Hinges) |
+
+
+* Door Hinges: )
 * Umbellical mount for toolhead by Hartk, received in private, need adjustment to be published
 * [Rear Umbelical Mount](https://www.teamfdm.com/files/file/536-rear-umbilical/)
 * [Z-Endstop Relocation](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Minsekt/Rear_Umbilical/Y_Endstop_Relocation)
