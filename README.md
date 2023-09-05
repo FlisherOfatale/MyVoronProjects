@@ -14,22 +14,25 @@ The goal of this page is to keep track of what is in my printer, primary for mys
 * Stealthburner and ClockWork2
 * V2.4r2 Gantry Joint and A/B Mount
 
+
+## Mods I designed for this Printer:
+| Local Files | Comment |
+| --- | --- | 
+| [Rear Umbelical Tall Faceplate](/STL-Flisher/Rear-Umbelical/) | Faceplate for Minsekt Umbelical mod  |
+
+
 ## Mods from Others:
 
-| Mod | Function | Author | Files |
-| --- | --- |--- |--- |
-| [270 Clamping Hinges](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/AlexanderT-Moss/270-Clamping-Hinges) | Door Hinges | AlexanderT-Moss | (/STL-Others/270-Clamping-Hinges) |
-
-
-* Door Hinges: )
-* Umbellical mount for toolhead by Hartk, received in private, need adjustment to be published
-* [Rear Umbelical Mount](https://www.teamfdm.com/files/file/536-rear-umbilical/)
-* [Z-Endstop Relocation](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Minsekt/Rear_Umbilical/Y_Endstop_Relocation)
-* [Dual Nevermore](https://github.com/nevermore3d/Nevermore_Micro/blob/master/V5_Duo/Mods/Rear-Backmount-Plenum_by-mvieleers/mvieleers_nevermore_plenum_backmount.stl)
-* [LDO PCB Cable Cover](https://github.com/MotorDynamicsLab/LDOVoron2/tree/main/STLs/LDOSBCW2MountCover)
-* [Ramas Front Idlers](https://github.com/Ramalama2/Voron-2-Mods/tree/main/Front_Idlers)
-* [Whopping PCB Klicky](https://github.com/tanaes/whopping_Voron_mods/tree/main/pcb_klicky)
-* [Hartk Sexbolt](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/hartk1213/Voron2.4_SexBolt_ZEndstop)
+| Mod Source | Function | Author | Local Files | Comment |
+| --- | --- |--- |--- | --- |
+| [270 Clamping Hinges](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/AlexanderT-Moss/270-Clamping-Hinges) | Door Hinges | AlexanderT-Moss | [Hinges](/STL-Others/AlexanderT-Moss-270-Clamping-Hinges/) |
+| [Rear Umbelical Mount](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Minsekt/Rear_Umbilical) | Rear Umbelical Mount | Minsekt | [Umbelical Backplate](/STL-Others/Minsekt-Rear-Umbelical) | Using Backplate Only | 
+| [Y EndStop Relocation](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Minsekt/) | Y EndStop Mount | Minsekt | [y_endstop.stl](/STL-Others/Minsekt-Rear-Umbelical/y_endstop.stl)
+| [2x Nevermore V5](https://github.com/nevermore3d/Nevermore_Micro/blob/master/V5_Duo/Mods/Rear-Backmount-Plenum_by-mvieleers/mvieleers_nevermore_plenum_backmount.stl) | Air Recirculation Filter | Multiple | Installed on each side of the printer |
+| [Ramas Front Idlers](https://github.com/Ramalama2/Voron-2-Mods/tree/main/Front_Idlers) | Front Idlers | 
+| [Whopping PCB Klicky](https://github.com/tanaes/whopping_Voron_mods/tree/main/pcb_klicky) | Bed Probe | 
+| [LDO PCB Cable Cover](https://github.com/MotorDynamicsLab/LDOVoron2/tree/main/STLs/DOSBCW2MountCover) | Toolhead Cable Cover | LDO |
+| [Hartk Sexbolt](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/hartk1213/Voron2.4_SexBolt_ZEndstop) | Z End Stop | Hartk | [Local Backup](/STL-Others/Hartk-Voron2.4_SexBolt_ZEndstop/)
 
 ## Firmware Mod
 Auto Z Calibration
