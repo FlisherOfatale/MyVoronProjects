@@ -33,7 +33,7 @@ The goal of this page is to keep track of what is in my printer, primary for mys
 | [Whopping PCB Klicky](https://github.com/tanaes/whopping_Voron_mods/tree/main/pcb_klicky) | Bed Probe | 
 | [LDO PCB Cable Cover](https://github.com/MotorDynamicsLab/LDOVoron2/tree/main/STLs/DOSBCW2MountCover) | Toolhead Cable Cover | LDO |
 | [Hartk Sexbolt](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/hartk1213/Voron2.4_SexBolt_ZEndstop) | Z End Stop | Hartk | [Local Backup](/STL-Others/Hartk-Voron2.4_SexBolt_ZEndstop/)
-
+| https://github.com/Annex-Engineering/Annex-Engineering_User_Mods/tree/main/Printers/All_Printers/annex_dev-Panel_2020_Clips_and_Hinges 
 ## Firmware Mod
 Auto Z Calibration
 
@@ -47,7 +47,6 @@ Auto Z Calibration
 ### RepRack Mount for 2020 Extrusion -> [Here](/STL/2020_reprack_mount/)
 * Designed for 3mm top pannel, easily moddable for more dimension.
 
-
 ##To be tested:
 * Umbelical mount :
  * https://www.printables.com/model/405358-a-drive-mount-for-pug
@@ -55,11 +54,6 @@ Auto Z Calibration
 * https://github.com/VoronDesign/VoronUsers/blob/master/printer_mods/Fiction/Exhaust_cover/STLs/exhaust_cover.stl
 * https://mods.vorondesign.com/detail/tiIhFDTh9tHJY0JNJK9A
 * https://github.com/VoronDesign/VoronUsers/blob/master/printer_mods/top_gun_de/mount_for_umbilical/
-
-## TradRack related work:
-* [Clock ECAS and Filament Sensor](https://github.com/EtteGit/EnragedRabbitProject/tree/main/usermods/CW2_with_ECAS_and_optional_sensor)
-* [Stealthburner Toolhead PCB](https://github.com/hartk1213/MISC/tree/main/PCBs/Stealthburner_Toolhead_PCB) - Revision 4
-* TradRack stuff (private)
 
 
 ## Stuff to read:
@@ -69,11 +63,6 @@ Auto Z Calibration
 
 In the printer but looking to replace
 * https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/richardjm/back-plate ->
-
-## Stuff related to TradRack installation
-* https://github.com/pure100kim/StealthBurner_Toolhead-Sensor_switch -> new toolhead sensor, hoping it increase reliability over the ball one.
-* https://github.com/sorted01/Filametrix -> Cutter, not sure if it's compatible with the other switch mod.
-* 
 
 Legacy, not in printer anymore:
 * [Smol-Mantis Toolhead](https://github.com/sporkus/smol_mantis)
