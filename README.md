@@ -47,6 +47,7 @@ Auto Z Calibration
 
 ##To be tested:
 * https://mods.vorondesign.com/detail/tiIhFDTh9tHJY0JNJK9A
+* https://mods.vorondesign.com/detail/WqhhKrXksAZ4omhHS1RY4Q - Door hinges
 
 
 ## Stuff to read:
