@@ -18,7 +18,7 @@ The goal of this page is to keep track of what is in my printer, primary for mys
 
 | Mod Source | Function | Author | Local Files | Comment |
 | --- | --- |--- |--- | --- |
-| [270 Clamping Hinges](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/AlexanderT-Moss/270-Clamping-Hinges) | Door Hinges | AlexanderT-Moss | [Hinges](/STL-Others/AlexanderT-Moss-270-Clamping-Hinges/) |
+| [Removable Door Hinges](/STL-Flisher/removable_door_hinges/) | Door Hinge and latch | Flisher | [Removable Door Hinges](/STL-Flisher/removable_door_hinges/ | Modded from [ElPoPo](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/ElPoPo/RemovableDoors) Design |
 | [Annex Panel Clips](https://github.com/Annex-Engineering/Annex-Engineering_User_Mods/tree/main/Printers/All_Printers/annex_dev-Panel_2020_Clips_and_Hinges) | Panel Clips | Annex Dev | [Clips](/STL-Others/annex_dev-Panel_2020_Clips_and_Hinges/) |
 | [Rear Umbelical Mount](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Minsekt/Rear_Umbilical) | Rear Umbelical Mount | Minsekt | [Umbelical Backplate](/STL-Others/Minsekt-Rear-Umbelical) | Using Backplate Only | 
 | [Y EndStop Relocation](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Minsekt/) | Y EndStop Mount | Minsekt | [y_endstop.stl](/STL-Others/Minsekt-Rear-Umbelical/y_endstop.stl)
@@ -47,7 +47,6 @@ Auto Z Calibration
 
 ##To be tested:
 * https://mods.vorondesign.com/detail/tiIhFDTh9tHJY0JNJK9A
-* https://mods.vorondesign.com/detail/WqhhKrXksAZ4omhHS1RY4Q - Door hinges
 
 
 ## Stuff to read:
@@ -72,4 +71,8 @@ In the printer but looking to replace
 | --- | --- | 
 | [Rear Umbelical Tall Faceplate](/STL-Flisher/Rear-Umbelical/) | Faceplate for Minsekt Umbelical mod  |
 
+
 ## Mod I don`t use anymore
+| Mod Source | Function | Author | Local Files | Comment |
+| --- | --- |--- |--- | --- |
+| [270 Clamping Hinges](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/AlexanderT-Moss/270-Clamping-Hinges) | Door Hinges | AlexanderT-Moss | [Hinges](/STL-Others/AlexanderT-Moss-270-Clamping-Hinges/) |
