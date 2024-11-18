@@ -3,14 +3,17 @@
 The goal of this page is to keep track of what is in my printer, primary for myself but also as a reference for others.
 
 ## Current Printer:
-**Main Build:** Voron v2.4
-**Serial:** 2639
-**Key Dates: Build:** December 27th, Serial on Jan 1st
+**Main Build:** Voron v2.4.2639
+**Toolchanger**: Stealthchanger SC.0021
+
+**Key Dates:**
+* Build: December 27th, Serial on Jan 1st
+* StealthChanger: April 8th 2024
 
 ## Characteristics
 * 2.4 Original Build, self-sourced before kits where a thing.
 * V2.4r2 Electronic Mounts, Gantry Joint and A/B Mount
-* Umbelical, no PCB
+* Umbelical, Canbus via BTT USB2CAN
 
 
 
@@ -18,14 +21,18 @@ The goal of this page is to keep track of what is in my printer, primary for mys
 
 | Mod Source | Function | Author | Local Files | Comment |
 | --- | --- |--- |--- | --- |
-| [Removable Door Hinges](/STL-Flisher/removable_door_hinges/) | Door Hinge and latch | Flisher | [Removable Door Hinges](/STL-Flisher/removable_door_hinges/ | Modded from [ElPoPo](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/ElPoPo/RemovableDoors) Design |
 | [Annex Panel Clips](https://github.com/Annex-Engineering/Annex-Engineering_User_Mods/tree/main/Printers/All_Printers/annex_dev-Panel_2020_Clips_and_Hinges) | Panel Clips | Annex Dev | [Clips](/STL-Others/annex_dev-Panel_2020_Clips_and_Hinges/) |
-| [Rear Umbelical Mount](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Minsekt/Rear_Umbilical) | Rear Umbelical Mount | Minsekt | [Umbelical Backplate](/STL-Others/Minsekt-Rear-Umbelical) | Using Backplate Only | 
-| [Y EndStop Relocation](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Minsekt/) | Y EndStop Mount | Minsekt | [y_endstop.stl](/STL-Others/Minsekt-Rear-Umbelical/y_endstop.stl)
+y_endstop.stl)
 | [2x Nevermore V5](https://github.com/nevermore3d/Nevermore_Micro/blob/master/V5_Duo/Mods/Rear-Backmount-Plenum_by-mvieleers/mvieleers_nevermore_plenum_backmount.stl) | Air Recirculation Filter | Multiple | Installed on each side of the printer |
 | [Ramas Front Idlers](https://github.com/Ramalama2/Voron-2-Mods/tree/main/Front_Idlers) | Front Idlers | 
-| [Whopping PCB Klicky](https://github.com/tanaes/whopping_Voron_mods/tree/main/pcb_klicky) | Bed Probe | 
-| [Hartk Sexbolt](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/hartk1213/Voron2.4_SexBolt_ZEndstop) | Z End Stop | Hartk | [Local Backup](/STL-Others/Hartk-Voron2.4_SexBolt_ZEndstop/) 
+| [Clicky-Klack Door](https://github.com/tanaes/whopping_Voron_mods/tree/main/clickyclacky_door) | Fridge Door
+
+StealthChanger Related:
+* [Modular Docks](https://github.com/DraftShift/ModularDock)
+* [DoorBuufer V2 - Clicky-Klack](https://github.com/DraftShift/DoorBuffer)
+* [Top Hat](https://github.com/viesturz/tapchanger/tree/main/TopHat) - Most Part
+* [Flisher Top for 18 inc pannel](/STL-Flisher/Top-Hat/x4 Pillar-for-18inch-457mm-pannels.stl) - Custom variant for 18" pannels.
+
 ## Firmware Mod
 Auto Z Calibration
 
@@ -76,3 +83,14 @@ In the printer but looking to replace
 | Mod Source | Function | Author | Local Files | Comment |
 | --- | --- |--- |--- | --- |
 | [270 Clamping Hinges](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/AlexanderT-Moss/270-Clamping-Hinges) | Door Hinges | AlexanderT-Moss | [Hinges](/STL-Others/AlexanderT-Moss-270-Clamping-Hinges/) |
+
+
+
+## Legacy Stuff
+| Mod Source | Function | Author | Local Files | Comment |
+| --- | --- |--- |--- | --- |
+| [Removable Door Hinges](/STL-Flisher/removable_door_hinges/) | Door Hinge and latch | Flisher | [Removable Door Hinges](/STL-Flisher/removable_door_hinges/ | Modded from [ElPoPo](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/ElPoPo/RemovableDoors) Design |
+| [Rear Umbelical Mount](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Minsekt/Rear_Umbilical) | Rear Umbelical Mount | Minsekt | [Umbelical Backplate](/STL-Others/Minsekt-Rear-Umbelical) | Using Backplate Only | 
+| [Y EndStop Relocation](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Minsekt/) | Y EndStop Mount | Minsekt | [y_endstop.stl](/STL-Others/Minsekt-Rear-Umbelical/y_endstop.stl)
+| [Whopping PCB Klicky](https://github.com/tanaes/whopping_Voron_mods/tree/main/pcb_klicky) | Bed Probe | 
+| [Hartk Sexbolt](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/hartk1213/Voron2.4_SexBolt_ZEndstop) | Z End Stop | Hartk | [Local Backup](/STL-Others/Hartk-Voron2.4_SexBolt_ZEndstop/) 
