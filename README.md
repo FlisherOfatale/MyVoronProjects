@@ -32,6 +32,7 @@ StealthChanger Related:
 * [DoorBuufer V2 - Clicky-Klack](https://github.com/DraftShift/DoorBuffer)
 * [Top Hat](https://github.com/viesturz/tapchanger/tree/main/TopHat) - Most Part
 * [Flisher Top for 18 inc pannel](/STL-Flisher/Top-Hat/x4 Pillar-for-18inch-457mm-pannels.stl) - Custom variant for 18" pannels.
+* [VYN-y Endstops](https://github.com/DraftShift/StealthChanger/blob/main/UserMods/VIN-y/Endstops/STLs]) - Endstop modifications
 
 ## Firmware Mod
 Auto Z Calibration
